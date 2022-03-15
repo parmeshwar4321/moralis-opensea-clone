@@ -32,3 +32,6 @@ typechain
 #Truffle files
 /Truffle/build
 /Truffle/data
+.vscode
+.husky
+.eslintrc
